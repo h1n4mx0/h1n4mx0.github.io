@@ -24,19 +24,19 @@ PatriotCTF is a beginner-friendly capture-the-flag competition hosted by GMU's c
 
     Description:
     <div style="text-align: center;">
-        <img src="/workspaces/NguyenCongHaiNam.github.io/images/patriotctf2024/for/Slingshot/description.png" alt="Challenge" />
+        <img src="/images/patriotctf2024/for/Slingshot/description.png" alt="Challenge" />
     </div>
     <br>
     
     The challenge gives us a `.pcapng` file. Let's analyze it! The first, I check *Protocol Hierarchy Statistics*. 
     <div style="text-align: center;">
-        <img src="/workspaces/NguyenCongHaiNam.github.io/images/patriotctf2024/for/Slingshot/hierarchy.png" alt="hierarchy" />
+        <img src="/images/patriotctf2024/for/Slingshot/hierarchy.png" alt="hierarchy" />
     </div>
     <br>
 
     It showed 100% of the packet is TCP, so I filtered HTTP first.
     <div style="text-align: center;">
-        <img src="/workspaces/NguyenCongHaiNam.github.io/images/patriotctf2024/for/Slingshot/http-fil.png" alt="" />
+        <img src="/images/patriotctf2024/for/Slingshot/http-fil.png" alt="" />
     </div>
     <br>
     
@@ -77,7 +77,7 @@ PatriotCTF is a beginner-friendly capture-the-flag competition hosted by GMU's c
     
     Continuously, i filtered the packet with port `22993` and have `data`
     <div style="text-align: center;">
-        <img src="/workspaces/NguyenCongHaiNam.github.io/images/patriotctf2024/for/Slingshot/filter.png" alt="" />
+        <img src="/images/patriotctf2024/for/Slingshot/filter.png" alt="" />
     </div>
     <br>
     
@@ -86,7 +86,7 @@ PatriotCTF is a beginner-friendly capture-the-flag competition hosted by GMU's c
     
     Next step is find timestamp or key. It is the epoch time when the first packet send.
     <div style="text-align: center;">
-        <img src="/workspaces/NguyenCongHaiNam.github.io/images/patriotctf2024/for/Slingshot/time.png" alt="" />
+        <img src="/images/patriotctf2024/for/Slingshot/time.png" alt="" />
     </div>
     <br>
     
@@ -122,7 +122,7 @@ PatriotCTF is a beginner-friendly capture-the-flag competition hosted by GMU's c
     
     Flag:
     <div style="text-align: center;">
-        <img src="/workspaces/NguyenCongHaiNam.github.io/_posts/2024-09-23-patriotctf.md" alt="" />
+        <img src="/_posts/2024-09-23-patriotctf.md" alt="" />
     </div>
     <br>
     
