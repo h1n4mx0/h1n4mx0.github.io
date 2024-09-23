@@ -122,7 +122,7 @@ PatriotCTF is a beginner-friendly capture-the-flag competition hosted by GMU's c
     
     Flag:
     <div style="text-align: center;">
-        <img src="/_posts/2024-09-23-patriotctf.md" alt="" />
+        <img src="/images/patriotctf2024/for/Slingshot/decrypted_image.jpg" alt="" />
     </div>
     <br>
     
