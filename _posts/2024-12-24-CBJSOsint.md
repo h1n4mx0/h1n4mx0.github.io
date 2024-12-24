@@ -88,6 +88,12 @@ Truy cập vào link shopee gốc thì dễ dàng mình tìm thấy flag cuối 
 </div>
 <br>
 <div style="text-align: center; size:50px">
+    flag bị mã hóa
+</div>
+<div style="text-align: center; size:50px">
     <img src="/images/cbjs-osint/dcode.png" alt="" />
 </div>
 <br>
+<div style="text-align: center; size:50px">
+    flag cuối cùng
+</div>
