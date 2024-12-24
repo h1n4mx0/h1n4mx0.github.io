@@ -11,7 +11,7 @@ Introduction
 <div style="text-align: center; size:50px">
   <img src="/images/cbjs-osint/intro.png" alt="" />
 </div>
-
+<br>
 Vừa rồi mình có tham gia giải một challenge osint của CBJS, hôm nay có thời gian mình sẽ tranh thủ write-up lại challenge này cho mọi người cùng đọc
 
 Description:
@@ -42,4 +42,23 @@ Description:
     <div style="text-align: center; size:50px">
     <img src="/images/cbjs-osint/flag1.png" alt="" />
     </div>
+    <br>
+    Chuyển sang khai thác thêm thông tin ở mastodon, lướt qua các bài post của tài khoản này thì mình thấy có một link drive (post này đã được modified, là một link drive khác nhưng đã bị xóa, mình có thử tải về xem thử nhưng không thấy khác mấy so với bản được sửa nên bỏ qua)
+    
+    <div style="text-align: center; size:50px">
+      <img src="/images/cbjs-osint/post-mas.png" alt="" />
+    </div>
+    <br>
+    
+    Xem thử link drive thì nó là một video tự quay, xem đi xem lại thì mình phát hiện có một profile X bị lộ trên url của màn hình máy tính
+    <div style="text-align: center; size:50px">
+      <img src="/images/cbjs-osint/drive.png" alt="" />
+    </div>
+    <br>
+    Bằng thị giác 10/10 ở tốc độ 0.2, độ phân giải 1080 thì mình đoán ngay được tài khoản X đó mà không cần bất kì công cụ hỗ trợ nào
+    <div style="text-align: center; size:50px">
+      <img src="/images/cbjs-osint/X.png" alt="" />
+    </div>
+    <br>
+    Quét mã QR kia mình có được flag thứ hai.
 
