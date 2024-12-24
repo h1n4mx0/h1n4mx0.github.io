@@ -40,7 +40,7 @@ redirect_from:
   - 🔗 **Git & GitHub**  
   - 🌐 **Flask/Django** (Python Web Frameworks)  
   - 🔥 **Laravel** (PHP Framework)  
-  - [Add any additional tools you use]  
+
 
 - **🔍 Specialized Areas**  
   - 🌎 **OSINT (Open Source Intelligence Techniques)**  
