@@ -79,21 +79,20 @@ Truy cập vào link shopee gốc thì dễ dàng mình tìm thấy flag cuối 
 <div style="text-align: center; size:50px">
     <img src="/images/cbjs-osint/shopee.png" alt="" />
 </div>
-<br>
 <div style="text-align: center; size:50px">
     shopee
 </div>
+<br>
 <div style="text-align: center; size:50px">
     <img src="/images/cbjs-osint/encode.png" alt="" />
 </div>
-<br>
 <div style="text-align: center; size:50px">
     flag bị mã hóa
 </div>
+<br>
 <div style="text-align: center; size:50px">
     <img src="/images/cbjs-osint/dcode.png" alt="" />
 </div>
-<br>
 <div style="text-align: center; size:50px">
     flag cuối cùng
 </div>
