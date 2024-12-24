@@ -61,4 +61,33 @@ Bằng thị giác 10/10 ở tốc độ 0.2, độ phân giải 1080 thì mình
 </div>
 <br>
 Quét mã QR kia mình có được flag thứ hai.
-
+Sau khoảng 15' stuck không biết tìm flag cuối ở đâu, mình quay lại đọc đề xem có sót thông tin nào không đồng thời cũng xem xem có ai solved chưa. Thì có một comment không liên quan đến challenge lắm (mình đã để ý tới comment này lúc đầu khi chưa ai comment nhưng do mải làm nên miss mất :(( )
+<div style="text-align: center; size:50px">
+    <img src="/images/cbjs-osint/comment.png" alt="" />
+</div>
+<br>
+Thử vào xem tài khoản `Lê Trọng Quý` thì là một acc clone và chỉ có một post duy nhất và post này đã bị modified
+<div style="text-align: center; size:50px">
+    <img src="/images/cbjs-osint/facebook.png" alt="" />
+</div>
+<br>
+<div style="text-align: center; size:50px">
+    <img src="/images/cbjs-osint/link.png" alt="" />
+</div>
+<br>
+Truy cập vào link shopee gốc thì dễ dàng mình tìm thấy flag cuối cùng đã bị Whitespace Encode ở phần mô tả :))))
+<div style="text-align: center; size:50px">
+    <img src="/images/cbjs-osint/shopee.png" alt="" />
+</div>
+<br>
+<div style="text-align: center; size:50px">
+    shopee
+</div>
+<div style="text-align: center; size:50px">
+    <img src="/images/cbjs-osint/encode.png" alt="" />
+</div>
+<br>
+<div style="text-align: center; size:50px">
+    <img src="/images/cbjs-osint/dcode.png" alt="" />
+</div>
+<br>
