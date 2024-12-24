@@ -17,6 +17,7 @@ Vừa rồi mình có tham gia giải một challenge osint của CBJS, hôm nay
 # Description:
     
     ##### 🎄🎅 THÔNG ĐIỆP BÍ ẨN GIỮA ĐÊM GIÁNG SINH
+    
     > Này các thành viên thân mến của đại gia đình CyberJutsu,
     Giáng sinh đang đến gần, không khí lễ hội đã tràn ngập khắp nơi. Và năm nay còn đặc biệt hơn nữa khi chúng ta chạm mốc 2000 CyberJutsuers - một con số đáng tự hào biết bao! 🥳
     Với tư cách là thành viên mới nhất của team, tôi đã âm thầm chuẩn bị những món quà bất ngờ, hy vọng mang đến niềm vui cho tất cả anh em trong đêm Noel ấm áp. 
