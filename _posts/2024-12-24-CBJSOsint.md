@@ -1,6 +1,6 @@
 ---
 title: 'OSINT CHALLENGE CYBERJUTSU 2024'
-date: 2024-12-22
+date: 2024-12-24
 permalink: /posts/2024/12/cbjs-osint/
 tags:
   - osint
